@@ -699,6 +699,16 @@
         }
     },
     {
+        "desc"    : "Helio",
+        "ua"      : "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.72 Safari/537.36 Helio/0.98.20",
+        "expect"  :
+        {
+            "name"    : "Helio",
+            "version" : "0.98.20",
+            "major"   : "0"
+        }
+    },
+    {
         "desc"    : "HeyTap",
         "ua"      : "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.61 Safari/537.36 HeyTapBrowser/40.8.10.1",
         "expect"  :
@@ -1406,6 +1416,16 @@
             "name"    : "Quark",
             "version" : "5.8.2.221",
             "major"   : "5"
+        }
+    },
+    {
+        "desc"    : "Quark",
+        "ua"      : "mozilla/5.0 (windows nt 10.0; win64; x64) applewebkit/537.36 (khtml, like gecko) chrome/112.0.0.0 safari/537.36 quarkpc/1.5.5.75",
+        "expect"  :
+        {
+            "name"    : "Quark",
+            "version" : "1.5.5.75",
+            "major"   : "1"
         }
     },
     {
